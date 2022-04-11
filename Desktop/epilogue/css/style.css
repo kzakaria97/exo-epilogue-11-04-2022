@@ -4,7 +4,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #ccc;
+    background-color: rgb(235, 235, 235);
 }
 .first{
     background-image: url("../images/banner.jpg");
@@ -27,7 +27,7 @@ h1{
 }
 .main{
     width: 60%;
-    background-color: #ccc;
+    background-color: rgb(235, 235, 235);
     margin-left: 20%;
     margin-top: 3%; 
 }
@@ -159,15 +159,14 @@ h1{
     line-height: 2;
 }
 .elem-3-button{
-    background-color: #ccc;
+    background-color:rgb(235, 235, 235);
     height: 3rem;
     width: 10rem;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
 .last-hr{
-    width: 10%;
+    width: 14%;
     border: solid 1px black;
-    
     margin: auto;
 }
 .div4{
